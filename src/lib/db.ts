@@ -4,7 +4,7 @@ import {
   courseMapper,
   coursesMapper,
   departmentMapper,
-  departmentsMapper,
+  departmentsMapper
 } from './mappers.js';
 
 let savedPool: pg.Pool | undefined;
